@@ -5,6 +5,8 @@ Note: This is currently partial implementation of Blur Admin. This repo includes
 
 Individual pages/demos/layouts can be found in the [React Webpack Skeleton repo](https://github.com/knledg/react-webpack-skeleton).
 
+Demo: https://www.akveo.com/blur-admin/#/dashboard
+
 ### Build Status
 
 [![CircleCI](https://circleci.com/gh/knledg/react-blur-admin/tree/master.svg?style=svg)](https://circleci.com/gh/knledg/react-blur-admin/tree/master)
